@@ -8,7 +8,7 @@
 # 🛡️ StaffMode Plugin
 
 **Plugin Bukkit/Spigot per la gestione rapida della modalità staff**  
-Sviluppato per **Gravity** da [ckanto](https://github.com/ckanto)
+Sviluppato per **Gravity** da [ckanto](https://github.com/ToxitAnto)
 
 [📦 Download](#-installazione) · [📖 Wiki](#-comandi) · [🐛 Bug Report](https://github.com/ToxitAnto/StaffMode-Plugin/issues)
 
