@@ -233,5 +233,5 @@ Sviluppato con ❤️ da **ckanto** per **Gravity**
 ---
 
 <div align="center">
-<sub>StaffMode © 2024 ckanto — Gravity. Released under the MIT License.</sub>
+<sub>StaffMode © 2026 ckanto — Gravity. Released under the MIT License.</sub>
 </div>
