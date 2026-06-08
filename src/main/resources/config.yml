@@ -1,0 +1,45 @@
+permission: staffmode.use
+item-tag: "&8StaffMode"
+invsee-range: 6
+commands:
+  vanish:
+    primary: "vanish"
+  flight:
+    primary: "fly"
+  invsee:
+    primary: "invsee"
+items:
+  player-list:
+    slot: 3
+    material: COMPASS
+    name: "&b&lCompass &7- Player List"
+  vanish:
+    slot: 4
+    material: EMERALD
+    name: "&a&lSmeraldo &7- Vanish"
+  flight:
+    slot: 5
+    material: FEATHER
+    name: "&e&lPiuma &7- Flight"
+  random-teleport:
+    slot: 6
+    material: BLAZE_ROD
+    name: "&9&lBlaze Rod &7- Random TP"
+  invsee:
+    slot: 7
+    material: CHEST
+    name: "&6&lCassa &7- InvSee"
+messages:
+  only-players: "&cSolo i giocatori possono usare questo comando."
+  no-permission: "&cNon hai il permesso per usare la modalita staff."
+  staff-enabled: "&a&lModalita Staff attivata! &7Usa gli oggetti nell'hotbar."
+  staff-disabled: "&aModalita Staff disattivata."
+  not-in-staff: "&cNon sei in modalita staff."
+  player-list-header: "&8&l======== &6&lPlayer Online &8&l========"
+  player-list-footer: "&8&l=============================="
+  vanish-enabled: "&aSei ora in vanish."
+  vanish-disabled: "&cVanish disattivato."
+  flight-enabled: "&aVolo attivato."
+  flight-disabled: "&cVolo disattivato."
+  no-random-target: "&cNon ci sono altri giocatori online."
+  random-teleport-success: "&aTeletrasportato a &f%player%&a!"
